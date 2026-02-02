@@ -26,7 +26,8 @@ I built a **Local RAG (Retrieval-Augmented Generation)** pipeline that runs enti
 
 ## 📸 Demo
 
-[Watch Demo](https://github.com/user-attachments/assets/e610fe8a-49ed-46ca-bd75-0120dee9f251)
+![FC45789C-B18C-4521-8DF7-289B12DB3937_1_206_a](https://github.com/user-attachments/assets/2bed1089-ffeb-4bb9-88f0-c251e5b72985)
+
 
 
 ---
